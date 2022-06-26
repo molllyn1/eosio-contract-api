@@ -31,7 +31,7 @@
     "express-rate-limit": "^5.2.3",
     "int64-buffer": "^0.99.1007",
     "ioredis": "^4.19.4",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "p-queue": "^6.6.2",
     "pg": "^8.5.1",
     "rate-limit-redis": "^2.0.0",
